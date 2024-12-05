@@ -10,7 +10,9 @@ La tête du serpent (le premier noeud) est ensuite dessiné à l'écran et sa po
 Une boucle while parcourt ensuite le reste de la liste chaînée `current` (le reste des segments, du corps du serpent) 
 en sauvegardant chaque segment dans des variables tempX et tempY et en effacant le segment actuel, puis en le redessinant à la position de la tête (`prevX` et `prevY`). Il en va de même pour les autres segments jusqu'à ce que `current`-> NULL. 
 
-![IMG_0186](https://github.com/user-attachments/assets/be8f05b2-c005-4ec0-913c-5cb23b01fa3a)
+![image](https://github.com/user-attachments/assets/e9e8d2b2-31cc-47ac-9408-3a982a1ba262)
+
+![image](https://github.com/user-attachments/assets/a78a975d-9c63-4462-8147-c880de25c243)
 
 
 # Jouabilité : 

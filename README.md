@@ -1,4 +1,4 @@
-# SNAKE-game
+# SNAKE-game 🐍
 The famous and classical game Snake in C. 
 
 Un petit projet crée sur la dernière semaine de novembre 2024. 

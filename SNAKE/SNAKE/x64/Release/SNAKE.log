@@ -1,0 +1,14 @@
+﻿  game.c
+C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(39,12): warning C4013: 'putFood' non défini(e) ; extern retournant int pris par défaut
+C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(77,22): warning C4013: 'printText' non défini(e) ; extern retournant int pris par défaut
+C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(84,22): warning C4013: 'drawPixel' non défini(e) ; extern retournant int pris par défaut
+C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(88,20): warning C4013: 'addBody' non défini(e) ; extern retournant int pris par défaut
+C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(132,19): warning C4013: 'printScore' non défini(e) ; extern retournant int pris par défaut
+C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(221,19): warning C4013: 'printMenu' non défini(e) ; extern retournant int pris par défaut
+C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(243,18): warning C4013: 'clean' non défini(e) ; extern retournant int pris par défaut
+  Génération de code en cours
+  0 of 18 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  SNAKE.vcxproj -> C:\Users\ulyss\Desktop\SNAKE\SNAKE\x64\Release\SNAKE.exe

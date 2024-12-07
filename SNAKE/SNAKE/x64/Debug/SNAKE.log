@@ -1,9 +1,0 @@
-﻿  game.c
-C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(39,12): warning C4013: 'putFood' non défini(e) ; extern retournant int pris par défaut
-C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(77,22): warning C4013: 'printText' non défini(e) ; extern retournant int pris par défaut
-C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(84,22): warning C4013: 'drawPixel' non défini(e) ; extern retournant int pris par défaut
-C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(88,20): warning C4013: 'addBody' non défini(e) ; extern retournant int pris par défaut
-C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(132,19): warning C4013: 'printScore' non défini(e) ; extern retournant int pris par défaut
-C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(221,19): warning C4013: 'printMenu' non défini(e) ; extern retournant int pris par défaut
-C:\Users\ulyss\Desktop\SNAKE\SNAKE\SNAKE\game.c(243,18): warning C4013: 'clean' non défini(e) ; extern retournant int pris par défaut
-  SNAKE.vcxproj -> C:\Users\ulyss\Desktop\SNAKE\SNAKE\x64\Debug\SNAKE.exe
